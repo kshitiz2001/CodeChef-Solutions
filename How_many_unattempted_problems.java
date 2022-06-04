@@ -1,4 +1,4 @@
-Input Format
+/*Input Format
 The first and only line of input contains two space-separated integers X and Y — the count of 'All problems' in the Beginner's section and the count of Chef's 'Attempted' problems, respectively.
 
 Output Format
@@ -38,10 +38,10 @@ Test case 2: There are 10 problems in total in the Beginner's section, out of wh
 
 Test case 3: There are 1000 problems in total in the Beginner's section, out of which 990 have been attempted. Hence, there are 10 Un-attempted problems.
 
-Test case 4: There are 500 problems in total in the Beginner's section, out of which only 1 has been attempted. Hence, there are 499 Un-attempted problems.
+Test case 4: There are 500 problems in total in the Beginner's section, out of which only 1 has been attempted. Hence, there are 499 Un-attempted problems.*/
 
 
-**SOLUTION**
+//**SOLUTION**//
 
 import java.util.*;
 import java.lang.*;
