@@ -1,4 +1,4 @@
-Input Format
+/*Input Format
 Each input file contains of a single line, with three integers N,A and B - the number of new users, the number of users who just saw the problem and didn't make any submission, and the number of users who made a submission but could not solve any problem correctly.
 
 Output Format
@@ -44,10 +44,10 @@ Sample Output 4
 
 Explanation
 There were 1000 new users. Among those 1000, 300 didn't make any submissions. This means that the other 1000−300=700 users made submissions and will get a rating. This is the first integer of the output.
-Now, among these 700 users, 700 couldn't solve any problem even though they submitted and tried. So, they will get a rating less than equal to 1000. The other 700−700=0 users were able to solve at least 1 problem and hence will get a rating greater than 1000. Hence, the second integer of the output is 0.
+Now, among these 700 users, 700 couldn't solve any problem even though they submitted and tried. So, they will get a rating less than equal to 1000. The other 700−700=0 users were able to solve at least 1 problem and hence will get a rating greater than 1000. Hence, the second integer of the output is 0.*/
 
 
-**SOLUTION**
+//**SOLUTION**//
 
 import java.util.*;
 import java.lang.*;
