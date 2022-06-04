@@ -1,4 +1,4 @@
-Problem Statement
+/*Problem Statement
 
 Every problem starts with a Problem Statement. It tells you in detail about the task to be solved.
 Shivam is the youngest programmer in the world, he is just 12 years old. Shivam is learning programming and today he is writing his first program.
@@ -29,9 +29,9 @@ Sample Input 1
 Sample Output 1 
 3
 300
-50
+50*/
 
-**SOLUTION**
+//**SOLUTION**//
 
 #include <iostream>
 #include <bits/stdc++.h>
